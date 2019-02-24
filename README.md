@@ -26,7 +26,7 @@ Reservoir data monitoring collected during 2017 for the Barker Reservoir shows s
 Buffalo Bayou water monitoring data for 2017 from five gauges across the bayou were studied. This included the following streets in an eastwardly direction from the reservoirs toward downtown: Dairy Ashford, Beltway 8, San Felipe, Shepherd, and Milam. Water elevation trends remained consistant for each of the five locations during 2017 and throughout Harvey. However, bayou flood inudation levels were significantly less approximately halfway down the bayou.
 
 ![Harvey](images/buffalo_bayou_elevation.png)
-
+       
 ![Harvey](images/Buffalo-Bayou-Inundation.jpg)
 
 ### What impact did Harvey have on social media?
