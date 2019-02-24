@@ -5,7 +5,7 @@
 
 ## Hypothesis
 
-If we learn from our past lessons with Harvey, then we will be able to significantly reduce future flood risk.
+If we learn from our past lessons with Hurricane Harvey, then we will be able to significantly reduce future flood risk.
 
 ## Analytical Summary
 
