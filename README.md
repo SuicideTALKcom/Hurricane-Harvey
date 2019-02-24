@@ -27,6 +27,8 @@ Buffalo Bayou water monitoring data for 2017 from five gauges across the bayou w
 
 ![Harvey](images/buffalo_bayou_elevation.png)
 
+![Harvey](images/Buffalo-Bayou-Inundation.jpg)
+
 ### What impact did Harvey have on social media?
 
 Through our research, it was a constant find to read that social media played an integral part during Hurricane Harvey. The amount of assistance and effort put out by millions of Twitter users alone contributed to the aid of flood victims. Here in the graph below shows the impact on Twitter and hit a peak of about 1M tweets sent on August 28, 2017. This brings a total of 7M tweets in a span of a month.
