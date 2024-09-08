@@ -1,5 +1,5 @@
 # Houston Emergency Coders
-## Lesly Bohuchot, Doug Newsom, and Margret Saniel
+## Doug F Newsom
 
 ![Harvey](images/harvey.jpg)
 
